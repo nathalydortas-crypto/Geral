@@ -1,0 +1,6 @@
+SENAI
+AUTOR:Nathaly Rodrigues Dortas
+ALGORITISMO: Site sobre cidades de Sergipe
+
+Site: Cidades de Sergipe
+Na página principal, será visto uma apresentação geral.
